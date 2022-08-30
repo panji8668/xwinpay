@@ -1,6 +1,6 @@
 name: xwinpay
 description: winpay x api
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/panji8668/xwinpay
 
 environment:
